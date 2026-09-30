@@ -16,8 +16,6 @@ El equipo actúa como un equipo consultor contratado por un fondo de inversión.
 
 ### Tannia Matallana
 
-Por mi parte, fui la encargada de coordinar el trabajo del equipo, verificar que las actividades asignadas se realizaran correctamente y contribuir a la integración de los resultados obtenidos en el análisis. También participé en la construcción y revisión de los índices y en la interpretación de los resultados, especialmente en la comparación de su desempeño, riesgo y comportamiento entre 2015 y 2025. Adicionalmente, contribuí a organizar las conclusiones para que los resultados obtenidos pudieran ser presentados de manera clara al fondo de inversión y estuvieran respaldados por la evidencia generada en el análisis.
-
 ### Sara Vásquez
 
 
