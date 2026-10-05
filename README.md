@@ -23,7 +23,7 @@ El equipo actúa como un equipo consultor contratado por un fondo de inversión.
 
 
 ### Valery Lizarazo
-
+Como especialista en visualización y comunicación de datos, participé en la obtención y organización de los datos de precios y volúmenes desde Bloomberg, y me encargué de retornos diarios de cada acción y sus ponderados. También estuve a cargo de los gráficos, los histogramas y el gráfico de líneas con los índices normalizados.  Interpreté los resultados, comparando dispersión, valores atípicos, forma de las distribuciones y desempeño acumulado.
 
 ## Organización del análisis
 
