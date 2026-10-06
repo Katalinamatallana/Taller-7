@@ -17,6 +17,7 @@ El equipo actúa como un equipo consultor contratado por un fondo de inversión.
 ### Tannia Matallana
 
 ### Sara Vásquez
+Como especialista en datos y reproducibilidad, paticipe en el procesamiento de los datos para comparar el comportamiento de los tres índices. Me encargué de calcular la desviación estandar, el número de observaciones y los intervalos de confianza de los retornos ponderandos, además realice los graficos correspondientes. También revisé las fórmulas y los resultados para garantizar la consistencia y reproducibilidad de la información utilizada en el análisis.  
 
 
 ### Alejandro Cotrino
