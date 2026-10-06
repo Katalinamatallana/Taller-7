@@ -20,6 +20,7 @@ El equipo actúa como un equipo consultor contratado por un fondo de inversión.
 
 
 ### Alejandro Cotrino
+Como analista cuantitativo, recopile toda la información y datos analizada por mis compañeras, y la condense en una presentación dirigida al cliente para que se oriente y sepa cual es el mejor modo o la mejor empresa para invertir, ya que la finalidad del taller es esa.
 
 
 ### Valery Lizarazo
