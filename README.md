@@ -15,7 +15,7 @@ El equipo actúa como un equipo consultor contratado por un fondo de inversión.
 ## Aportes de cada integrante
 
 ### Tannia Matallana
-Como líder del proyecto y enlace con el fondo, participé en el desarrollo integral del análisis de los tres índices. Me encargué de la obtención de los datos en Bloomberg y de la realización de los puntos de la **Parte 1 hasta el punto 2.2**, incluyendo la construcción de los índices, sus ponderaciones y el cálculo de los retornos diarios ponderados. Además, realicé y organicé el **repositorio de GitHub** del proyecto, facilitando la organización y trazabilidad del trabajo del equipo.
+Como líder del proyecto y enlace con el fondo, participé en el desarrollo integral del análisis de los tres índices. Me encargué de la obtención de los datos en Bloomberg y de la realización de los puntos de la Parte 1 hasta el punto 2.2, incluyendo la construcción de los índices, sus ponderaciones y el cálculo de los retornos diarios ponderados. Además, realicé y organicé el repositorio de GitHub** del proyecto, facilitando la organización y trazabilidad del trabajo del equipo.
 
 ### Sara Vásquez
 Como especialista en datos y reproducibilidad, paticipe en el procesamiento de los datos para comparar el comportamiento de los tres índices. Me encargué de calcular la desviación estandar, el número de observaciones y los intervalos de confianza de los retornos ponderandos, además realice los graficos correspondientes. También revisé las fórmulas y los resultados para garantizar la consistencia y reproducibilidad de la información utilizada en el análisis.  
